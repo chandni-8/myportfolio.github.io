@@ -1,0 +1,11 @@
+.font-div{
+	text-align: center;
+}
+@media only screen and (min-width: 990px){
+	.font-div{
+		padding: 42.5px 0px!important;
+	}
+}
+a{
+	color: white
+}
